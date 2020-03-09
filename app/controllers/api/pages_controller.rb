@@ -1,4 +1,4 @@
-class Api::PagesController < ApplicationController
+oopclass Api::PagesController < ApplicationController
   def index
     render json: {message: "Hello!"}
   end
